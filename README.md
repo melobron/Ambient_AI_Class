@@ -4,4 +4,4 @@
 1. Lightweight CNN for Image Classification
 - Inception
 - Xception
-- MobileNet: Depthwise Convolution, Inverted Residual, Linear Bottleneck
+- MobileNet: Depthwise Separable Convolution, Inverted Residual and Linear Bottleneck
