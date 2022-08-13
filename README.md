@@ -2,4 +2,6 @@
 2022 Summer Bootcamp
 
 1. Lightweight CNN for Image Classification
-- Inception, Xception, MobileNet
+- Inception
+- Xception
+- MobileNet: Depthwise Convolution, Inverted Residual, Linear Bottleneck
