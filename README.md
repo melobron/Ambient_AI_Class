@@ -26,3 +26,44 @@
 - FOTS (2018): object + text detection
 - CRAFT (2019): object + text detection
 
+4. DNN Quantization
+- BinaryConnect (2015): binarize weight (16bit to 1bit)
+- BNN (2016): binarize activation
+- XNOR-Net (2016): quantize  CNN weight
+- Integer-only (2018): quantization-aware training
+
+5. DNN Pruning
+- Han et.al (NIPS 2015): weight thresholding
+- Han et.al (ICLR 2016): storing pruned model
+- Gradual Pruning
+- Frankle & Carbin (ICLR 2019): find sub-network
+- Liu et.al (ICLR 2019): find sub-network
+
+6. Knowledge Distillation
+
+
+
+7. Edge-included system design and applications
+
+
+
+8. 3D object classification and detection
+
+
+
+9. On-device distributed learning (Federated Learning)
+
+
+
+10. On-device distributed learning (Split Learning)
+
+
+
+11. Meta Learning (Parametric)
+
+
+
+12. Meta Learning (Non-Parametric)
+
+
+
