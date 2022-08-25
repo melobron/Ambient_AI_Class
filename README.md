@@ -40,30 +40,36 @@
 - Liu et.al (ICLR 2019): find sub-network
 
 6. Knowledge Distillation
-
-
+- Self Distillation
 
 7. Edge-included system design and applications
-
-
+- Use both Smartphone and Cloud
+	- edge: latency-sensitive, lightweight tasks
+	- cloud: latency-tolerant, heavyweight tasks
+- MARVEL: Mobile AR
+- EagleEye
+- MARLIN
 
 8. 3D object classification and detection
-
-
+- PointNet
+- PointNet++
+- Frustum PointNet
+- VoteNet
 
 9. On-device distributed learning (Federated Learning)
-
-
+- Client selection
+- Global model distribution (cloud to edge)
+- Local model update
+- Aggregate multiple edge model weights (instead of data)
 
 10. On-device distributed learning (Split Learning)
+- each edge train a part of the global model
 
-
-
-11. Meta Learning (Parametric)
-
-
-
-12. Meta Learning (Non-Parametric)
-
+11. Meta Learning
+- N-way K-shot: discriminate between N classes with K examples of each
+- Optimization-based Meta Learning
+	- MAML (2017)
+- Non-parametric Meta Learning
+	- learn an embedding space
 
 
