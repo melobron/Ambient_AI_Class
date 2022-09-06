@@ -1,6 +1,4 @@
-# Ambient_AI_bootcamp
-2022 Summer Bootcamp
-
+# Ambient_AI_Class (2022 Summer)
 1. Lightweight CNN for Image Classification
 - Inception
 - Xception
