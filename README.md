@@ -38,6 +38,8 @@
 - Gradual Pruning
 - Frankle & Carbin (ICLR 2019): find sub-network
 - Liu et.al (ICLR 2019): find sub-network
+- TensorFlow Lite model optimization
+- Pycoral API
 
 6. Knowledge Distillation
 - Self Distillation
